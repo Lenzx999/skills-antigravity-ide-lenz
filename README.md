@@ -1,6 +1,6 @@
-# Kumpulan Skills Antigravity IDE — Lenz
+# Kumpulan Skills Antigravity IDE - Lenz
 
-Koleksi **24 Agent Skills** pilihan untuk **Google Antigravity IDE**, dikurasi dari proyek-proyek pribadi agar siap langsung dipasang ke ruang kerja baru.
+Koleksi **38 Agent Skills** untuk **Google Antigravity IDE**, dikurasi dari proyek-proyek pribadi agar siap langsung dipasang ke ruang kerja baru.
 
 Website: [lenznity.my.id](https://lenznity.my.id)
 
@@ -36,7 +36,26 @@ Ambil repositori https://github.com/Lenzx999/skills-antigravity-ide-lenz, lalu s
 
 ---
 
-## Daftar Skills (24 Skills)
+## Daftar Skills (38 Skills)
+
+### Remotion Video (14)
+
+| Skill | Fungsi |
+|---|---|
+| [`remotion-best-practices`](skills/remotion-best-practices/SKILL.md) | Router utama seluruh panduan resmi Remotion agar animasi terikat ke frame dan stabil saat render. |
+| [`remotion-create`](skills/remotion-create/SKILL.md) | Panduan inisialisasi proyek Remotion baru beserta aturan tata letak video. |
+| [`remotion-markup`](skills/remotion-markup/SKILL.md) | Aturan inti penulisan komponen React Remotion, transisi, audio, efek visual, dan `useCurrentFrame()`. |
+| [`remotion-elements`](skills/remotion-elements/SKILL.md) | Cara memasang dan menyesuaikan komponen video siap pakai dari pustaka Remotion Elements. |
+| [`remotion-captions`](skills/remotion-captions/SKILL.md) | Menampilkan, menyinkronkan, dan mengimpor subtitle/caption kata per kata (SRT dan transkripsi). |
+| [`remotion-interactivity`](skills/remotion-interactivity/SKILL.md) | Struktur timeline agar komposisi dan aset bisa diedit langsung di Remotion Studio. |
+| [`remotion-maps`](skills/remotion-maps/SKILL.md) | Pembuatan animasi peta, rute, dan marker menggunakan Mapbox, MapLibre, dan GeoJSON. |
+| [`remotion-multimedia`](skills/remotion-multimedia/SKILL.md) | Mengolah media di browser serta membaca durasi dan dimensi audio/video. |
+| [`remotion-render`](skills/remotion-render/SKILL.md) | Panduan render video MP4, gambar still, frame transparan, dan ekspor timeline. |
+| [`remotion-saas`](skills/remotion-saas/SKILL.md) | Integrasi Remotion Player dan rendering ke dalam aplikasi SaaS / web framework. |
+| [`remotion-studio`](skills/remotion-studio/SKILL.md) | Menjalankan dan mengoperasikan preview Remotion Studio saat pengembangan video. |
+| [`remotion-docs`](skills/remotion-docs/SKILL.md) | Akses rujukan dokumentasi resmi Remotion untuk kebutuhan teknis lanjutan. |
+| [`remotion-license`](skills/remotion-license/SKILL.md) | Panduan konfigurasi lisensi Remotion pada proses render produksi maupun proyek gratis. |
+| [`remotion-upgrade`](skills/remotion-upgrade/SKILL.md) | Langkah pembaruan versi paket Remotion agar tetap sinkron dan bebas konflik. |
 
 ### Animasi & Kualitas Tampilan (12)
 
@@ -64,7 +83,7 @@ Ambil repositori https://github.com/Lenzx999/skills-antigravity-ide-lenz, lalu s
 | [`ui-ux-pro-max`](skills/ui-ux-pro-max/SKILL.md) | Referensi desain UI/UX lengkap dengan skrip pencarian lokal (gaya desain, palet warna, font, ikon, grafik). |
 | [`write-swift`](skills/write-swift/SKILL.md) | Panduan menulis kode Swift modern (Swift 6.x, *value types*, *concurrency*, `actor`, Swift Testing). |
 
-### Penyederhanaan Kode — Ponytail (6)
+### Penyederhanaan Kode - Ponytail (6)
 
 | Skill | Fungsi |
 |---|---|
@@ -88,6 +107,7 @@ Ambil repositori https://github.com/Lenzx999/skills-antigravity-ide-lenz, lalu s
 
 Seluruh hak cipta tetap menjadi milik pembuat masing-masing:
 
+- **Kelompok Remotion Video** (`remotion-*`): Resmi dari **Remotion** ([github.com/remotion-dev/skills](https://github.com/remotion-dev/skills)).
 - **Kelompok Animasi & Design Engineering** (`animate`, `animate-expo`, `animation-vocabulary`, `ask-sonner`, `break-ui`, `emil-design-eng`, `find-animation-opportunities`, `improve-animations`, `mobile-native`, `pick-ui-library`, `prototype`, `review-animations`): Berdasarkan filosofi *design engineering* **Emil Kowalski** ([animations.dev](https://animations.dev/) / [sonner.emilkowal.ski](https://sonner.emilkowal.ski/)).
 - **Kelompok Ponytail** (`ponytail`, `ponytail-audit`, `ponytail-debt`, `ponytail-gain`, `ponytail-help`, `ponytail-review`): **Ponytail Skill Suite** (Lisensi MIT).
 - **`threat-model`**: **Grim Prompter** (*Threat Modeling Skill*).
